@@ -12,3 +12,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=alchemy-lee&show_icons=true&theme=buefy&count_private=true"/>
 
 ### Hi there 👋
+
+- 🦄 7470 -> 8000
