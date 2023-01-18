@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=alchemy-lee&show_icons=true&theme=buefy&count_private=true"/>
+<img align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=alchemy-lee&show_icons=true&theme=buefy&count_private=true"/>
 
 ### Hi there 👋
 
